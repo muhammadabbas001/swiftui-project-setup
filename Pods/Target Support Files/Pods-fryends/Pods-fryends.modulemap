@@ -1,0 +1,6 @@
+framework module Pods_fryends {
+  umbrella header "Pods-fryends-umbrella.h"
+
+  export *
+  module * { export * }
+}

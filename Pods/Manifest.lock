@@ -1,0 +1,26 @@
+PODS:
+  - SDWebImage (5.19.4):
+    - SDWebImage/Core (= 5.19.4)
+  - SDWebImage/Core (5.19.4)
+  - SDWebImageSwiftUI (3.1.1):
+    - SDWebImage (~> 5.10)
+  - Swinject (2.9.1)
+
+DEPENDENCIES:
+  - SDWebImageSwiftUI
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SDWebImageSwiftUI
+    - Swinject
+
+SPEC CHECKSUMS:
+  SDWebImage: 066c47b573f408f18caa467d71deace7c0f8280d
+  SDWebImageSwiftUI: dcff3d05fd0579ff280221ae8856c34ac3b67f25
+  Swinject: a827d508c6270da03ec74e558e728917a888fa9b
+
+PODFILE CHECKSUM: 031a8d1d8d8ed9fbd7bd79ff56753a9223b51143
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-fryends/Pods-fryends-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SDWebImageSwiftUI/SDWebImageSwiftUI.framework
+${BUILT_PRODUCTS_DIR}/Swinject/Swinject.framework
